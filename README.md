@@ -1,4 +1,6 @@
 # Valorant-Spoofer
+Saw people selling this shit for $80 :skull:
+
 Works for eac/be/valorant.
 
 Instructions (Must do this before running the spoofer.exe)
